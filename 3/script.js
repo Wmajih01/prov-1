@@ -1,6 +1,6 @@
 let arr = ["apple", "pear", "orange", "grapes", "vodka"]
 
 arr[0] = "applepie"
-arr[5] = "water"
+arr[4] = "water"
 
 console.log(arr)
