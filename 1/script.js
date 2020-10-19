@@ -1,5 +1,5 @@
 const me = {
-    myName: Alexander,
+    myName: "Alexander",
     myAge: 16,
     isHuman = true
 }
